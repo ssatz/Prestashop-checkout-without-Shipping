@@ -7,9 +7,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/ssatz/Prestashop-checkout-without-Shipping/blob/master/checkout_1.png" alt="PrestaShop's checkout"/>
+  <img src="https://raw.githubusercontent.com/ssatz/Prestashop-checkout-without-Shipping/master/checkout_1.png" alt="PrestaShop's checkout"/>
 </p>
 <p align="center">
-  <img src="https://github.com/ssatz/Prestashop-checkout-without-Shipping/blob/master/checkout_2.png" alt="PrestaShop's checkout"/>
+  <img src="https://raw.githubusercontent.com/ssatz/Prestashop-checkout-without-Shipping/master/checkout_2.png" alt="PrestaShop's checkout"/>
 </p>
 
